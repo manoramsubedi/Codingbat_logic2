@@ -15,10 +15,3 @@ for i in range(len(str)-1):
     if str[i:i+2] == 'hi':
         count+=1
 print(count)
-# [i.lower() for i in x]
-# print(x)
-# for i in x:
-#     if 'hi' in i:
-#         count+=1
-
-# print(count)
